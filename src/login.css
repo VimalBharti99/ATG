@@ -1,0 +1,23 @@
+.sign_in{
+    display: inline-block;
+  }
+  .sign_in h6{
+    position: relative;
+    float: right;
+    margin-left: auto; 
+  margin-right: 0;
+  }
+  .signin_btn{
+    width: 320px;
+  height: 40px;
+  top: 425px;
+  left: 388px;
+  border-radius: 20px;
+  
+  }
+  .btn_option{
+    background-color: white;
+    color: black;
+  }
+  
+  
